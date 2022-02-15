@@ -1,1 +1,1 @@
-{"TempId":101,"Name":"Test","ProjectId":19,"DictionaryPageType":1,"Objects":[{"id":680,"projectId":19,"locatorType":{"id":4,"name":"Name"},"pageId":101,"outerHTML":null,"locator":"qqq","objectPageName":null,"name":"Object","locatorTypeForIos":null,"locatorForIos":null,"LocatorType":null}]}
+{"TempId":101,"Name":"Test","ProjectId":19,"DictionaryPageType":1,"Objects":[{"id":680,"projectId":19,"locatorType":{"id":4,"name":"Name"},"pageId":101,"outerHTML":null,"locator":"q","objectPageName":null,"name":"Object","locatorTypeForIos":null,"locatorForIos":null,"LocatorType":null}]}
